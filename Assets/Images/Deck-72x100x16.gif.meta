@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 57ab4ce113bfbd24f8bb0272da053f46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8092040782448697276
+    second: Deck-72x100x16_0
+  - first:
+      213: 6400437234381130065
+    second: Deck-72x100x16_1
+  - first:
+      213: -2247441047131390137
+    second: Deck-72x100x16_2
+  - first:
+      213: 4751767530560771007
+    second: Deck-72x100x16_3
+  - first:
+      213: -2686803133725487409
+    second: Deck-72x100x16_4
+  - first:
+      213: 6070462913699272041
+    second: Deck-72x100x16_5
+  - first:
+      213: 2286031596301708971
+    second: Deck-72x100x16_6
+  - first:
+      213: -2410721217634747503
+    second: Deck-72x100x16_7
+  - first:
+      213: -8639863762186863542
+    second: Deck-72x100x16_8
+  - first:
+      213: -7471249947220026719
+    second: Deck-72x100x16_9
+  - first:
+      213: -147157206172895453
+    second: Deck-72x100x16_10
+  - first:
+      213: 2971359127797074245
+    second: Deck-72x100x16_11
+  - first:
+      213: -3647581926902614129
+    second: Deck-72x100x16_12
+  - first:
+      213: -1251048619773265116
+    second: Deck-72x100x16_13
+  - first:
+      213: -8773793722339037375
+    second: Deck-72x100x16_14
+  - first:
+      213: -8037497936315297390
+    second: Deck-72x100x16_15
+  - first:
+      213: -1736525636441045719
+    second: Deck-72x100x16_16
+  - first:
+      213: -5407441507192094107
+    second: Deck-72x100x16_17
+  - first:
+      213: 7097956098659787881
+    second: Deck-72x100x16_18
+  - first:
+      213: -1876110131385614150
+    second: Deck-72x100x16_19
+  - first:
+      213: 4606699499840089376
+    second: Deck-72x100x16_20
+  - first:
+      213: 6003156219774216920
+    second: Deck-72x100x16_21
+  - first:
+      213: -5376091840443489361
+    second: Deck-72x100x16_22
+  - first:
+      213: 141336457720235398
+    second: Deck-72x100x16_23
+  - first:
+      213: -4826839197706640105
+    second: Deck-72x100x16_24
+  - first:
+      213: 5585801149701299052
+    second: Deck-72x100x16_25
+  - first:
+      213: -929112690601263868
+    second: Deck-72x100x16_26
+  - first:
+      213: -3673388961873565945
+    second: Deck-72x100x16_27
+  - first:
+      213: 3980307010206800375
+    second: Deck-72x100x16_28
+  - first:
+      213: -6049404844890845733
+    second: Deck-72x100x16_29
+  - first:
+      213: 4195330703246769888
+    second: Deck-72x100x16_30
+  - first:
+      213: -8284195763974690279
+    second: Deck-72x100x16_31
+  - first:
+      213: 8361517956958710968
+    second: Deck-72x100x16_32
+  - first:
+      213: -8679636323893949088
+    second: Deck-72x100x16_33
+  - first:
+      213: -553625795338885995
+    second: Deck-72x100x16_34
+  - first:
+      213: 4034729331602053050
+    second: Deck-72x100x16_35
+  - first:
+      213: 1551353043859823080
+    second: Deck-72x100x16_36
+  - first:
+      213: -6354167780513066990
+    second: Deck-72x100x16_37
+  - first:
+      213: 5347633490172985508
+    second: Deck-72x100x16_38
+  - first:
+      213: 115018254167307139
+    second: Deck-72x100x16_39
+  - first:
+      213: 5694904120609543925
+    second: Deck-72x100x16_40
+  - first:
+      213: -2946728856459114691
+    second: Deck-72x100x16_41
+  - first:
+      213: -6234281967145654001
+    second: Deck-72x100x16_42
+  - first:
+      213: -801997159075837327
+    second: Deck-72x100x16_43
+  - first:
+      213: -3347425717650670315
+    second: Deck-72x100x16_44
+  - first:
+      213: -4587166662380319311
+    second: Deck-72x100x16_45
+  - first:
+      213: -4491459268780896504
+    second: Deck-72x100x16_46
+  - first:
+      213: -1237825836854308661
+    second: Deck-72x100x16_47
+  - first:
+      213: 362876941395668428
+    second: Deck-72x100x16_48
+  - first:
+      213: 3142803242540242349
+    second: Deck-72x100x16_49
+  - first:
+      213: -2818703208711221317
+    second: Deck-72x100x16_50
+  - first:
+      213: 8649367004555522026
+    second: Deck-72x100x16_51
+  - first:
+      213: -8280166273011937368
+    second: Deck-72x100x16_52
+  - first:
+      213: -2178343215116172533
+    second: Deck-72x100x16_53
+  - first:
+      213: -3755564984563857116
+    second: Deck-72x100x16_54
+  - first:
+      213: 255539886765511360
+    second: Deck-72x100x16_55
+  - first:
+      213: -1701909296324304488
+    second: Deck-72x100x16_56
+  - first:
+      213: 5733533769060278905
+    second: Deck-72x100x16_57
+  - first:
+      213: 7898185231750037766
+    second: Deck-72x100x16_58
+  - first:
+      213: 1428200066883894735
+    second: Deck-72x100x16_59
+  - first:
+      213: -498986234758193476
+    second: Deck-72x100x16_60
+  - first:
+      213: -5354183349037316004
+    second: Deck-72x100x16_61
+  - first:
+      213: 702464826686815669
+    second: Deck-72x100x16_62
+  - first:
+      213: -8344364290444687611
+    second: Deck-72x100x16_63
+  - first:
+      213: -2580777091776243118
+    second: Deck-72x100x16_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deck-72x100x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ab9780e4b072e48a6e41bce276aa12
+      internalID: -8092040782448697276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb354661faca7048868597ef713d42c
+      internalID: 6400437234381130065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad926de0e3bf9db4499aa0c1d914c17d
+      internalID: -2247441047131390137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f4179bd5decc4e8f351f81c7ce0d7
+      internalID: 4751767530560771007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31c1be80f70134468c4d182d4778786
+      internalID: -2686803133725487409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2d713ba4c41042848a2cd072b73a5
+      internalID: 6070462913699272041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86beafc2b4dfeae46924e177b2007bf5
+      internalID: 2286031596301708971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e66e692097bd164fa863228a1e60597
+      internalID: -2410721217634747503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5735fd5d54da0a40a7d0d6cae8f013a
+      internalID: -8639863762186863542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fb585006a8dbf4ca6f4eac7efaaf6f
+      internalID: -7471249947220026719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1645d527c3d04a9966f2de2fb1753
+      internalID: -147157206172895453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0958b9763417db14a92e962750e7576e
+      internalID: 2971359127797074245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 400
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad53054509f454885191d9198de25b
+      internalID: -3647581926902614129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6da1384fb09b8d4cad65fe35841d21c
+      internalID: -1251048619773265116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8530ae8e0b93ea4b9572a026a65e89b
+      internalID: -8773793722339037375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7050933ce5cbdf438c24ba166f79cf3
+      internalID: -8037497936315297390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb78c6013748ec41827d966781c5058
+      internalID: -1736525636441045719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8754d22e6b6972746897fd3c8369359b
+      internalID: -5407441507192094107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24aa91d1811b2d40bb10d12ce1674f4
+      internalID: 7097956098659787881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1f15e4da7f79747ac99d87635d709b
+      internalID: -1876110131385614150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a92dfeaa495b74fbd55bb9f242c3f9
+      internalID: 4606699499840089376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878d9b38cfe931441a85eca806da85d9
+      internalID: 6003156219774216920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df053502bc4c0ea4f8ebe448b3baa2f2
+      internalID: -5376091840443489361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f9e45c8806ad43b5b6732e8e46c16
+      internalID: 141336457720235398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_24
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f4fdcbc48bc9048b297f41e9240dac
+      internalID: -4826839197706640105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_25
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 300
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b21826aa657d94593549ce79099710
+      internalID: 5585801149701299052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4fed58c338d0409934bb20e43e2bb
+      internalID: -929112690601263868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58331416f62bec44799d38316cf9a40e
+      internalID: -3673388961873565945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13ed6f1910ee147a7145399aaca42a
+      internalID: 3980307010206800375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40bb5fc3b38484f868a013fcbf517a
+      internalID: -6049404844890845733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c925639b61de49b7e41fa8e9f7680
+      internalID: 4195330703246769888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923d121b428384e4e8d05561eb9bc3f0
+      internalID: -8284195763974690279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0e099d77352f24c85aec91a8c72005
+      internalID: 8361517956958710968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e486da43cadc6409138ffa2c222569
+      internalID: -8679636323893949088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a9b675b1b1f7a438512188dcfb40eb
+      internalID: -553625795338885995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_35
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a13ee73e0ab4834ba1ce3d7ebdec641
+      internalID: 4034729331602053050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cea6badf17e324088c631c53c08a02
+      internalID: 1551353043859823080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_37
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3758af6078654d8f6e1ff56ffecb7
+      internalID: -6354167780513066990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 200
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353919b921ea93f4fb32532296a2a91f
+      internalID: 5347633490172985508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e591b2f9dc4165f41b7542aa5cf1a11d
+      internalID: 115018254167307139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2003054692fb73419cf10700703d66e
+      internalID: 5694904120609543925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1f7932367c4f498e7de5274f2d5fe
+      internalID: -2946728856459114691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb8db95e17e7b04386aa704d5260d5d
+      internalID: -6234281967145654001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5486466b90d2e9548905824ebea57260
+      internalID: -801997159075837327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3cf5880d48f014685de1dc239bbc4e
+      internalID: -3347425717650670315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199818e76ee7304cbc8620ec555cb40
+      internalID: -4587166662380319311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f0bbc5e146104a8de7ce41623bfd5
+      internalID: -4491459268780896504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a172863d76c04c4cacbb77abd3e9525
+      internalID: -1237825836854308661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_48
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91022343d2c05641bb978dc7b369496
+      internalID: 362876941395668428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fec5db61b468544a6c6d945ef21c88
+      internalID: 3142803242540242349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_50
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec12a811645474d981b2587e4eab2f
+      internalID: -2818703208711221317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 100
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6289e40a60b7b84db963f7376dc9b4a
+      internalID: 8649367004555522026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbed830c3336e341ab4c4bbf098bb0f
+      internalID: -8280166273011937368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d277ce47b98eb4545a7f646f6669e2fa
+      internalID: -2178343215116172533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb42580faddda6b40a68f5731b4e426e
+      internalID: -3755564984563857116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f974753b6699c45864532cc88db8f5
+      internalID: 255539886765511360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990237a1c7e7994f939c866aab73676
+      internalID: -1701909296324304488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722136d5fe9f6a04ebede717889f4941
+      internalID: 5733533769060278905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f075c832cb05945ad0627d45dc27eb
+      internalID: 7898185231750037766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29b8cc72a731a49b624e66e129c352
+      internalID: 1428200066883894735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc396181f2dcc64d85aaf3c9e597465
+      internalID: -498986234758193476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_61
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaffcf391c3ee042a71624131309801
+      internalID: -5354183349037316004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_62
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07f46fa6997354abb906b10a70a9b9
+      internalID: 702464826686815669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_63
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1752ff83706e408bb3c9cbfcfbcae
+      internalID: -8344364290444687611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 72
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5972e01055f80d449486b47ba437ccf
+      internalID: -2580777091776243118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
