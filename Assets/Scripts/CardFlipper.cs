@@ -39,9 +39,13 @@ public class CardFlipper : MonoBehaviour
 
             //localScaleというVector3の宣言と現在のtransformlocalScaleの値の代入。
             Vector3 localScale = transform.localScale;
+            Vector3 position = transform.position;
             //localScaleのx成分だけ上で定義したscaleを代入する。
             localScale.x = scale;
+            position.x = 0.5f - scale/2;
             transform.localScale = localScale;
+            transform.position = position;
+
 
             if (time >= 0.5f)
             {
