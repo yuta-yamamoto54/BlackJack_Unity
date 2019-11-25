@@ -4,7 +4,17 @@ using UnityEngine;
 
 public class Deck : MonoBehaviour
 {
-    List<int> cards;
+    private List<int> cards;
+
+    //privateのカードにアクセス
+    public IEnumerable<int> GetCards()
+    {
+        foreach (int i in cards)
+        {
+            //foreachにreturnを使ってひとつづつ返す
+            yield return i;
+        }
+    }
 
     public void Shuffle()
     {
@@ -35,5 +45,9 @@ public class Deck : MonoBehaviour
     void Start()
     {
         Shuffle();
+    }
+    private void Update()
+    {
+        
     }
 }
