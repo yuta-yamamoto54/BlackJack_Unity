@@ -9,21 +9,34 @@ using UnityEngine;
 public class CardStackView : MonoBehaviour
 {
     CardStack deck; //参照
-    List<int> fetchedCards; //取ったカード
+    Dictionary<int, GameObject> fetchedCards; //取ったカード 辞書型<keyの型名,valueの型名>
     int lastCount; //最初のデッキの枚数
 
     public Vector3 start;
     public float cardOffset; //カードをずらす幅
+    public bool faceUp = false; //カードを表裏どっちで置いておくか
     public GameObject cardPrefabs;
 
     private void Start()
     {
-        fetchedCards = new List<int>();
+        fetchedCards = new Dictionary<int, GameObject>();
         deck = GetComponent<CardStack>(); //Deckを参照しているよ
         ShowCards();
         lastCount = deck.CardCount; //デッキのカードの総数取得
+
+        deck.CardRemoved += deck_CardRemoved ;
     }
 
+
+    void deck_CardRemoved(object sender, CardRemovedEventArgs e)
+    {
+        if (fetchedCards.ContainsKey(e.CardIndex))
+        {
+            //オブジェクトを破壊削除
+            Destroy(fetchedCards[e.CardIndex]);
+            fetchedCards.Remove(e.CardIndex);
+        }
+    }
     private void Update()
     {
         //もし最後のアップデート時からデッキの枚数が変わっていた場合カードの表示
@@ -56,7 +69,7 @@ public class CardStackView : MonoBehaviour
     void AddCard(Vector3 position, int cardIndex, int positionalIndex)
     {
         //すでにカードが表示されている場合何もしない
-        if (fetchedCards.Contains(cardIndex))
+        if (fetchedCards.ContainsKey(cardIndex))
         {
             return;
         }
@@ -70,7 +83,7 @@ public class CardStackView : MonoBehaviour
 
         cardModel.cardIndex = cardIndex;
         //表表示
-        cardModel.ToggleFace(true);
+        cardModel.ToggleFace(faceUp);
 
         //カードごとのレイヤーを変える
         //レイヤーの順序が大きいほど上に表示される
@@ -78,6 +91,6 @@ public class CardStackView : MonoBehaviour
         spriteRenderer.sortingOrder = positionalIndex;
 
         //取得したカード番号を記憶
-        fetchedCards.Add(cardIndex);
+        fetchedCards.Add(cardIndex, cardCopy);
     }
 }
